@@ -1,0 +1,46 @@
+/* determining responsive web design - desktop */
+@media only screen and (min-width:1080px){
+
+    /* containers holding content of site */
+.container {
+    display: grid;
+    background-color: green;
+
+
+}    
+}
+}
+
+/* determining responsive web design - laptop */
+@media only screen and (min-width:480px){
+
+    /* containers holding content of site */
+.container {
+    display: grid;
+    background-color: aqua;
+}
+}
+
+
+/* determining responsive web design - mobile */
+@media only screen and (max-width:480px){
+
+    /* containers holding content of site */
+.container {
+    display: grid;
+    background-color: bisque;
+
+    .container1 {
+        border-radius: 15px;
+        width: 370px;
+        border: 15px solid #ff9500;
+        padding: 10px;
+        margin: 10px;
+        background-color: #ff9500;
+        color: white;
+        
+}
+}
+span {
+    content: "\22C6";
+  }
