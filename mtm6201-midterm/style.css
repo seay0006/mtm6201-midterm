@@ -1,3 +1,11 @@
+
+/* CSS BEGINS BELOW */
+.be-vietnam-pro-regular {
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 /* determining responsive web design - desktop */
 @media only screen and (min-width:1920px){
 
@@ -50,7 +58,7 @@ span {
 .grid1 {
     display: grid;
     grid-template-columns: 15vw 30vw 20vw 20vw 15vw;
-    grid-template-rows: 1vh; /* Your number of rows */
+    grid-template-rows: 1vh;
     grid-auto-flow: column;
 }
 /* login button at the top of page */
@@ -85,10 +93,8 @@ span {
         height auto;
         width: 60px;
     }
-    
-    
-    
 }
+
 .dropdown {
     position: relative;
     top: 20px;
@@ -104,4 +110,65 @@ span {
     position: relative;
     top: 62px;
     opacity: 15%;
+    margin-bottom: 70px;
+}
+.container3{
+    display: grid;
+    grid-template-columns: 1vw 1vw;
+    align-items: center;
+    position: relative;
+    /* top: 30px; */
+    background-color: white;
+    border-radius: 8px;
+    border: 1px;
+    padding: 14px;
+    gap: 10px;
+   width: 345px;
+}
+.box2{
+    position: relative;
+    background-color:#FFF4E5 ;
+    width: 50px;
+    height: 50px;
+    border-radius: 9px;
+    img {
+        position: relative;
+        left: 15px;
+        top: 15px;
+    }
+}
+.box3 {
+    position: relative;
+    width: 300px;
+    left: 55px;
+}
+.text1 {
+    text-align: center;
+}
+.grid2 {
+    display: grid;
+    position: relative;
+    left: 25px;
+    grid-template-columns: 50vw 50vw;
+    grid-template-rows: 1vh;
+}
+.ecourses {
+    position: relative;
+    text-align: center;
+    left: 15px;
+    height: 40px;
+    width: 150px;
+    background-color: #ff9500;
+    border-radius: 8px;
+    color: white;
+
+    h3{
+        position: relative;
+        bottom: 8px;
+    }
+}
+
+.vpricing {
+    position: relative;
+    
 }
