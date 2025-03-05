@@ -16,6 +16,10 @@
 
 
 }    
+.container1 {
+    position: relative;
+   
+}
 }
 /* determining responsive web design - laptop */
 @media only screen and (min-width:1440px){
@@ -156,19 +160,62 @@ span {
     position: relative;
     text-align: center;
     left: 15px;
-    height: 40px;
+    height: 50px;
     width: 150px;
     background-color: #ff9500;
     border-radius: 8px;
     color: white;
-
+    
     h3{
         position: relative;
-        bottom: 8px;
+        bottom: 4px;
     }
 }
 
 .vpricing {
     position: relative;
+    text-align: center;
+    right: 15px;
+    height: 50px;
+    width: 150px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+
+    h3{
+        position: relative;
+        bottom: 4px;
+    }
+}
+.navigation{
+    margin-top: 60px;
+    align-items: center;
+    height: 100px;
+    width: 360px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.grid3{
+    display: grid;
+    position: relative;
+    align-items: center;
+    grid-template-columns: 33vw 33vw 33vw;
+    grid-template-rows: 1vh;
+    grid-auto-flow: column;
     
+    .zapier{
+     position: relative;
+     left: 30px;
+     top: 50px;
+    }
+    .spotify{
+     position: relative;
+     left: 22px;
+     top: 50px;
+    }
+    .zoom{
+        position: relative;
+        left: 28px;
+        top: 50px;
+       }
 }
