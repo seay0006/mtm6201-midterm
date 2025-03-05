@@ -29,18 +29,61 @@
 .container {
     display: grid;
     background-color: bisque;
-
+    font-size: 18px;
     .container1 {
-        border-radius: 15px;
-        width: 370px;
-        border: 15px solid #ff9500;
-        padding: 10px;
+        border-radius: 10px;
+        width: 420px;
+        /* border: 7px solid #ff9500; */
+        padding:15px;
         margin: 10px;
         background-color: #ff9500;
         color: white;
+        text-align: center;
         
 }
 }
+
 span {
     content: "\22C6";
   }
+
+.grid1 {
+    display: grid;
+    grid-template-columns: 25vw 25vw 25vw 25vw;
+    grid-template-rows: 1vh; /* Your number of rows */
+    grid-auto-flow: column;
+}
+/* login button at the top of page */
+.login {
+    position: relative;
+    text-align: center;
+    top: 15px;
+    height: 40px;
+    width: 80px;
+    background-color: #ff9500;
+    padding-top: 12px;
+    border-radius: 10px;
+    color: white;
+
+}
+/* signup button at the top of page */
+.signup {
+    position: relative;
+    text-align: center;
+    top: 15px;
+    height: 40px;
+    width: 70px;
+    padding-top: 12px;
+}
+/* logo in the top left of page */
+.logo {
+    position: relative;
+    left: 10px;
+    top: 12px;
+    height: 40px;
+    width: 40px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    
+    
+}
