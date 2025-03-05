@@ -1,5 +1,5 @@
 /* determining responsive web design - desktop */
-@media only screen and (min-width:1080px){
+@media only screen and (min-width:1920px){
 
     /* containers holding content of site */
 .container {
@@ -9,10 +9,8 @@
 
 }    
 }
-}
-
 /* determining responsive web design - laptop */
-@media only screen and (min-width:480px){
+@media only screen and (min-width:1440px){
 
     /* containers holding content of site */
 .container {
@@ -23,18 +21,18 @@
 
 
 /* determining responsive web design - mobile */
-@media only screen and (max-width:480px){
+@media only screen and (max-width:390px){
 
     /* containers holding content of site */
 .container {
     display: grid;
-    background-color: bisque;
+    background-color: #F7F7F8;
     font-size: 18px;
     .container1 {
         border-radius: 10px;
-        width: 420px;
+        width: 350px;
         /* border: 7px solid #ff9500; */
-        padding:15px;
+        padding: 10px;
         margin: 10px;
         background-color: #ff9500;
         color: white;
@@ -42,14 +40,16 @@
         
 }
 }
-
+html{
+    background-color: #F7F7F8;
+}
 span {
     content: "\22C6";
   }
 
 .grid1 {
     display: grid;
-    grid-template-columns: 25vw 25vw 25vw 25vw;
+    grid-template-columns: 15vw 30vw 20vw 20vw 15vw;
     grid-template-rows: 1vh; /* Your number of rows */
     grid-auto-flow: column;
 }
@@ -57,18 +57,20 @@ span {
 .login {
     position: relative;
     text-align: center;
+    right: 15px;
     top: 15px;
-    height: 40px;
+    height: 35px;
     width: 80px;
     background-color: #ff9500;
-    padding-top: 12px;
-    border-radius: 10px;
+    padding-top: 10px;
+    border-radius: 8px;
     color: white;
 
 }
 /* signup button at the top of page */
 .signup {
     position: relative;
+    right: 15px;
     text-align: center;
     top: 15px;
     height: 40px;
@@ -78,12 +80,28 @@ span {
 /* logo in the top left of page */
 .logo {
     position: relative;
-    left: 10px;
-    top: 12px;
-    height: 40px;
-    width: 40px;
-    margin-bottom: 15px;
-    border: 1px solid black;
+    top: 5px;
+    img {
+        height auto;
+        width: 60px;
+    }
     
     
+    
+}
+.dropdown {
+    position: relative;
+    top: 20px;
+    left: px;
+    div {
+        width: 35px;
+        height: 5px;
+        background-color: black;
+        margin: 6px 0;
+      }
+}
+.hr1 {
+    position: relative;
+    top: 62px;
+    opacity: 15%;
 }
