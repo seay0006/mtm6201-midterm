@@ -283,4 +283,69 @@ span {
         position: relative;
         left: 15px;
     }
+    .squareicon {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        border-radius: 5px;
+        left: 250px;
+        background-color: #F7F7F8;
+    }
+    .arrowinsquare {
+        position: relative;
+        left: 34px;
+        top: 18px;
+    }
+}
+.grid5 {
+    display: grid;
+}
+.webdevfund {
+    margin-top: 30px;
+}
+.web1 {
+    background-color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    width: 330px ;
+    border-radius: 8px;
+    height: 475px;
+        img {
+            align-items: center;
+        }
+}
+.grid6 {
+    display: grid;
+    grid-template-columns: 25vw 25vw 50vw;
+        
+}
+.weeks4 {
+    
+    position: relative;
+    margin-top: 10px;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border-color: rgba(241, 241, 243, 1);
+    background-color: rgb(255, 255, 255);
+}
+.beginner {
+    
+    position: relative;
+    margin-top: 10px;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border-color: rgba(241, 241, 243, 1);
+    background-color: rgb(255, 255, 255);
+}
+.getitnow {
+    position: relative;
+    background-color: #F7F7F8;
+    height: 60px;
+    text-align: center;
+    display: block;
+    width: 285px;
+    height: 50px;
+    margin: auto;
 }
