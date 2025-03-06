@@ -219,3 +219,26 @@ span {
         top: 50px;
        }
 }
+.benefits {
+    position: relative;
+
+    img{
+        position: relative;
+        right: 15px;
+    }
+}
+.viewall {
+    position: relative;
+    text-align: center;
+    left: 10px;
+    height: 40px;
+    width: 85px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+
+    p {
+        position: relative;
+        top: 10px;
+    }
+}
