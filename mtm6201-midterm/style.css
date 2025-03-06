@@ -242,3 +242,45 @@ span {
         top: 10px;
     }
 }
+.grid4{
+    display: grid;
+    margin: 10px;
+   
+    .b01{
+    position: relative;
+    background-color: #ffffff;
+    height: 250px;
+    border-radius: 8px;
+    margin-top: 30px;
+    }
+    .b02 {
+    position: relative;
+    background-color: #ffffff;
+    height: 250px;
+    border-radius: 8px;
+    margin-top: 30px;
+    }
+    .b03 {
+    position: relative;
+    background-color: #ffffff;
+    height: 250px;
+    border-radius: 8px;
+    margin-top: 30px;
+    }
+    .b04 {
+    position: relative;
+    background-color: #ffffff;
+    height: 250px;
+    border-radius: 8px;
+    margin-top: 30px;
+    }
+    .numheader {
+        position: relative;
+        right: 20px;
+        text-align: right;
+    }
+    .textblock {
+        position: relative;
+        left: 15px;
+    }
+}
