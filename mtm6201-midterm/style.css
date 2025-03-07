@@ -1408,7 +1408,7 @@ span {
 
 .faq {
     background-color: white;
-    height: 800px ;
+    height: 950px ;
     width: 340px;
     margin-left: 10px;
     margin-top: 10px;
@@ -1437,6 +1437,7 @@ span {
 .faqp {
     position: relative;
     width: 320px;
+    left: 15px;
 }
 .faqtext {
     position: relative;
@@ -1484,10 +1485,10 @@ span {
 }
 .boxgrey1 {
     position: relative;
-    bottom: 25px;
-    left: 25px;
+    bottom: 35px;
+    left: 15px;
     height: 50px;
-    width: 250px;
+    width: 260px;
     background-color:rgba(241, 241, 243, 1) ;
     border-radius: 4px;
 }
@@ -1512,5 +1513,149 @@ span {
             position: relative;
             left: 14px;
             top: 8px;
+        }
+}
+.hr2 {
+    position: relative;
+    width: 270px;
+    left: 15px;
+    opacity: 20%;
+}
+.iconcircle {
+    position: relative;
+    left: 210px;
+    bottom: 60px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+        img {
+            position: relative;
+            left: 11px;
+            top: 10px;
+        }
+}
+.borderbox2 {
+    position: relative;
+    left: 18px;
+    border-color: rgba(241, 241, 243, 1);
+    border-style: solid;
+    border-width: 1px;
+    width: 300px;
+    height: 100px;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+.question2 {
+    position: relative;
+    width: 190px;
+    left: 15px;
+    bottom: 5px;
+}
+.iconbox9 {
+    position: relative;
+    left: 242px;
+    height: 35px;
+    width: 35px;
+    background-color:rgba(255, 244, 229, 1);
+    border-radius: 4px;
+    bottom: 70px;
+        img{
+            position: relative;
+            left: 12px;
+            top: 10px;
+        }
+}
+.borderbox3 {
+    position: relative;
+    left: 18px;
+    border-color: rgba(241, 241, 243, 1);
+    border-style: solid;
+    border-width: 1px;
+    width: 300px;
+    height: 120px;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+.question3 {
+    position: relative;
+    width: 190px;
+    left: 15px;
+    bottom: 5px;
+}
+.iconbox9 {
+    position: relative;
+    left: 242px;
+    height: 35px;
+    width: 35px;
+    background-color:rgba(255, 244, 229, 1);
+    border-radius: 4px;
+    bottom: 100px;
+        img{
+            position: relative;
+            left: 12px;
+            top: 10px;
+        }
+}
+.borderbox4 {
+    position: relative;
+    left: 18px;
+    border-color: rgba(241, 241, 243, 1);
+    border-style: solid;
+    border-width: 1px;
+    width: 300px;
+    height: 100px;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+.question4 {
+    position: relative;
+    width: 190px;
+    left: 15px;
+    bottom: 5px;
+}
+.iconbox9 {
+    position: relative;
+    left: 242px;
+    height: 35px;
+    width: 35px;
+    background-color:rgba(255, 244, 229, 1);
+    border-radius: 4px;
+    bottom: 70px;
+        img{
+            position: relative;
+            left: 12px;
+            top: 10px;
+        }
+}
+.borderbox5 {
+    position: relative;
+    left: 18px;
+    border-color: rgba(241, 241, 243, 1);
+    border-style: solid;
+    border-width: 1px;
+    width: 300px;
+    height: 100px;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+.question5 {
+    position: relative;
+    width: 190px;
+    left: 15px;
+    bottom: 5px;
+}
+.iconbox9 {
+    position: relative;
+    left: 242px;
+    height: 35px;
+    width: 35px;
+    background-color:rgba(255, 244, 229, 1);
+    border-radius: 4px;
+    bottom: 70px;
+        img{
+            position: relative;
+            left: 12px;
+            top: 10px;
         }
 }
