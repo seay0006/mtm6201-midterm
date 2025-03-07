@@ -829,6 +829,19 @@ span {
     margin-top: 10px;
     border-radius: 4px;
 }
+.grid18{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 7;
+    gap: 10px;
+}
+.availablefeats {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    bottom: 200px;
+}
 .boxgetstarted {
     display: flex;
     justify-content: center;
@@ -838,10 +851,19 @@ span {
     width: 260px;
     position: relative;
     left: 20px;
+    color: white;
     border-bottom-right-radius: 4px;
     border-bottom-left-radius: 4px;
 }
-.availablefeat {
-    position: relative;
-    bottom: 200px;
+/* Features boxes below */
+/* box 1 */
+.feat1 {
+
+}
+.iconbox1 {
+
+}
+/* box 2 */
+.feat2 {
+
 }
