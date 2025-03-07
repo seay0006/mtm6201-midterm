@@ -1797,3 +1797,91 @@ li {
     position: relative;
     bottom: 68px;
 }
+
+/* BELOW IS THE COURSES PAGE MOBILE VERSION */
+
+/* determining responsive web design - mobile */
+@media only screen and (max-width:390px){
+
+    /* WEB DESIGN FUNDAMENTALS */
+.onlinecourses {
+    position: relative;
+    right: 220px;
+    top: 150px;
+    width: 360px;
+}
+.whitebackground {
+    position: relative;
+    margin-top: 15px;
+    top: 400px;
+    height: 400px ;
+    width: 360px;
+    padding: 8px;
+    border-radius: 6px;
+    background-color: white;
+}
+.viewcourse {
+    position: relative;
+    top: 10px;
+}
+.viewcourseborder {
+    position: relative;
+    text-align: center;
+    left: 10px;
+    height: 40px;
+    width: 105px;
+    background-color: rgba(241, 241, 243, 1);
+    border-radius: 8px;
+    border: solid;
+    border-width: 0.5px;
+    color: rgb(0, 0, 0);
+}
+.webdesignimg1 {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+.webdesignimg2 {
+    position: relative;
+    left: 125px;
+    bottom: 90px;
+}
+.webdesignimg3 {
+    position: relative;
+    left: 235px;
+    bottom: 195px;
+}
+.captionborder {
+    position: relative;
+    margin-top: 10px;
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    border: 1px solid rgba(241, 241, 243, 1);
+    border-color: rgba(241, 241, 243, 1);
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    bottom: 190px;
+    left: 15px;
+}
+.weeksneeded {
+    position: relative;
+    bottom: 12px;
+}
+.captionborder1 {
+    position: relative;
+    margin-top: 10px;
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    border: 1px solid rgba(241, 241, 243, 1);
+    border-color: rgba(241, 241, 243, 1);
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    bottom: 190px;
+    left: 15px;
+}
+.experienceneeded {
+    position: relative;
+    bottom: 12px;
+}
