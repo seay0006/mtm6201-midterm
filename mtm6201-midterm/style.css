@@ -93,9 +93,14 @@ span {
 .logo {
     position: relative;
     top: 5px;
+    background-color: #ff9500;
+    border-radius: 8px;
+    height: 50px;
+    width: 50px;
     img {
         height auto;
         width: 60px;
+        
     }
 }
 
@@ -1658,4 +1663,137 @@ span {
             left: 12px;
             top: 10px;
         }
+}
+/* FOOTER OF MOBILE HOMEPAGE */
+.footer {
+    background-color: white;
+    height: 600px;
+    margin-top: 40px;
+}
+.logofooter {
+    position: relative;
+    left: 22px;
+    top: 40px;
+}
+.iconsfooter {
+    display: grid;
+    position: relative;
+    left: 30px;
+    top: 70px;
+    
+}
+.emailfooter {
+    height: 40px;
+}
+.phonefooter {
+    height: 40px;
+}
+.mapfooter {
+    height: 40px;
+}
+.emailtextfooter {
+    position: relative;
+    left: 35px;
+    bottom: 37px;
+}
+.phonetextfooter {
+    position: relative;
+    left: 35px;
+    bottom: 37px;
+}
+.maptextfooter {
+    position: relative;
+    left: 35px;
+    bottom: 37px;
+}
+.homesectionfooter {
+    display: grid;
+    position: relative;
+    right: 45px;
+    bottom: 15px;
+
+        ul{
+            display: grid;
+            position: relative;
+            bottom: 15px;
+            gap: 15px;
+        }
+}
+.aboutusfooter {
+    display: grid;
+    position: relative;
+    left: 160px;
+    bottom: 225px;
+
+        ul{
+            display: grid;
+            position: relative;
+            bottom: 15px;
+            right: 40px;
+            gap: 15px;
+        }
+}
+li {
+    list-style-type: none;
+}
+.homeheaderfooter{
+    position: relative;
+    left: 40px;
+}
+.socialprofiles {
+    position: relative;
+    bottom: 145px;
+    left: 25px;
+}
+.facebookicons {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+.twittericons {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+.indeedicons {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+.socialmediaiconsquare {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: rgba(241, 241, 243, 1);
+    border-radius: 8px;
+
+}
+.socialmediaiconsquare1 {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: rgba(241, 241, 243, 1);
+    left: 55px;
+    bottom: 50px;
+    border-radius: 8px;
+}
+.socialmediaiconsquare2 {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: rgba(241, 241, 243, 1);
+    left: 110px;
+    bottom: 100px;
+    border-radius: 8px;
+}
+
+.hr3 {
+    position: relative;
+    width: 270px;
+    left: 15px;
+    opacity: 20%;
+}
+.copyright {
+    position: relative;
+    bottom: 68px;
 }
