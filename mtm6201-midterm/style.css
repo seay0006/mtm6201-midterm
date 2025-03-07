@@ -1404,6 +1404,8 @@ span {
     word-wrap: break-word;
     width: 180px;
 }
+/* FAQ SECTION MOBILE HOME PAGE BELOW */
+
 .faq {
     background-color: white;
     height: 800px ;
@@ -1457,7 +1459,7 @@ span {
             bottom: 10px;
          }
 }
-.q1 {
+.borderbox1 {
     position: relative;
     left: 18px;
     border-color: rgba(241, 241, 243, 1);
@@ -1467,4 +1469,48 @@ span {
     height: 240px;
     border-radius: 6px;
     margin-top: 15px;
+}
+.q1 {
+    position: relative;
+    width: 200px;
+    left: 15px;
+}
+.p1 {
+    position: relative;
+    left: 15px;
+    bottom: 40px;
+    width: 280px;
+
+}
+.boxgrey1 {
+    position: relative;
+    bottom: 25px;
+    left: 25px;
+    height: 50px;
+    width: 250px;
+    background-color:rgba(241, 241, 243, 1) ;
+    border-radius: 4px;
+}
+.enrollprocess {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 25px;
+    bottom: 10px;
+    width: 200px;
+}
+.iconbox8{
+    position: relative;
+    left: 242px;
+    height: 35px;
+    width: 35px;
+    background-color:rgba(255, 244, 229, 1);
+    border-radius: 4px;
+    bottom: 56px;
+        img{
+            position: relative;
+            left: 14px;
+            top: 8px;
+        }
 }
