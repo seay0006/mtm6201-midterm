@@ -97,9 +97,9 @@ span {
     border-radius: 8px;
     height: 50px;
     width: 50px;
-    img {
+        img {
     
-        width: 60px;
+        width: 49px;
     }
 }
 
@@ -1955,8 +1955,25 @@ li {
     grid-template-columns: 1fr 1fr 1fr;
     position:relative;
     left: 115px;
+    height: 15px;
+    z-index: -1;
     
 }
 /* COURSES OPEN PAGE CSS BEGINS HERE */
 /* determining responsive web design - mobile */
 @media only screen and (max-width:390px){
+
+.headertext2 {
+    position: relative;
+    top: 65px;
+    right: 155px;
+    width: 340px;
+    padding-top:15px;
+   
+
+}
+.paragraph2 {
+    position: relative;
+    top: 65px;
+    right: 155px;
+}
