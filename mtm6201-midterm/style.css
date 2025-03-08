@@ -1987,15 +1987,42 @@ li {
     margin-top: 10px;
     right: 230px;
 }
+/* INTRODUCTION TO UX/UI DESIGN BOXES MOBILE */
 .whitespace {
     position: relative;
     background-color: white;
     top: 655px;
-    right: 600px;
-    width: 320px ;
+    right: 610px;
+    width: 340px;
+    border-radius:4px;
+    margin: 10px;
+}
+.uxdesign01border {
+    border: solid 1px black;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader01 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign01text {
+    position: relative;
+    left: 15px;
 }
 .uxdesignheader01 {
     position: relative;
     margin: 5px;
-    left: 260px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded {
+    background-color: #F7F7F8;
+    width: 135px;
 }
