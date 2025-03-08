@@ -1987,7 +1987,7 @@ li {
     margin-top: 10px;
     right: 230px;
 }
-/* INTRODUCTION TO UX/UI DESIGN BOXES MOBILE */
+/* INTRODUCTION TO UX/UI DESIGN BOX 1 MOBILE */
 .whitespace {
     position: relative;
     background-color: white;
@@ -2013,7 +2013,7 @@ li {
 }
 .uxdesign01text {
     position: relative;
-    left: 15px;
+    left: 20px;
 }
 .uxdesignheader01 {
     position: relative;
@@ -2023,6 +2023,159 @@ li {
     margin-top: 10px;
 }
 .timeneeded {
+    display: flex;
+    position: relative;
     background-color: #F7F7F8;
     width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 2 MOBILE */
+.uxdesign02border {
+    border: solid 1px black;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader02 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign02text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader02 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded2 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon2 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time2 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 3 MOBILE */
+.uxdesign03border {
+    border: solid 1px black;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader03 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign03text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader03 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded3 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon3 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time3 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+.uxdesign04border {
+    border: solid 1px black;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader04 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign04text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader04 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded4 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon4 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time4 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
 }
