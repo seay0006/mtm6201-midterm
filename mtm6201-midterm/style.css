@@ -1950,24 +1950,27 @@ li {
     background-color: white;
 }
 }
-.signupicons {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    position:relative;
-    left: 115px;
-    height: 15px;
-    z-index: -1;
-    
-}
+
 /* COURSES OPEN PAGE CSS BEGINS HERE */
 /* determining responsive web design - mobile */
 @media only screen and (max-width:390px){
 
+.signupicons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px;
+    position:relative;
+    left: 145px;
+    height: 15px;
+    margin-bottom: 15px;
+   
+        
+}
 .headertext2 {
     position: relative;
     top: 65px;
-    right: 155px;
-    width: 340px;
+    right: 215px;
+    width: 320px;
     padding-top:15px;
    
 
@@ -1975,5 +1978,24 @@ li {
 .paragraph2 {
     position: relative;
     top: 65px;
-    right: 155px;
+    right: 215px;
+    width: 330px;
+}
+.uxdesignheaderimgmobile {
+    position: relative;
+    top: 55px;
+    margin-top: 10px;
+    right: 230px;
+}
+.whitespace {
+    position: relative;
+    background-color: white;
+    top: 655px;
+    right: 600px;
+    width: 320px ;
+}
+.uxdesignheader01 {
+    position: relative;
+    margin: 5px;
+    left: 260px;
 }
