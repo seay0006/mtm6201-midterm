@@ -1,0 +1,2874 @@
+@media only screen and (max-width:390px){
+
+    .signupicons {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 100px;
+        position:relative;
+        left: 145px;
+        height: 15px;
+        margin-bottom: 15px;
+       
+            
+    }
+    .headertext2 {
+        position: relative;
+        top: 65px;
+        right: 215px;
+        width: 320px;
+        padding-top:15px;
+       
+    
+    }
+    .paragraph2 {
+        position: relative;
+        top: 65px;
+        right: 215px;
+        width: 330px;
+    }
+    .uxdesignheaderimgmobile {
+        position: relative;
+        top: 55px;
+        margin-top: 10px;
+        right: 230px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 1 MOBILE */
+    .whitespace {
+        position: relative;
+        background-color: white;
+        top: 655px;
+        right: 610px;
+        width: 340px;
+        border-radius:4px;
+        margin: 10px;
+        padding-bottom: 15px;
+    }
+    .uxdesign01border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader01 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign01text {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesignheader01 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 2 MOBILE */
+    .uxdesign02border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader02 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign02text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader02 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded2 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon2 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time2 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 3 MOBILE */
+    .uxdesign03border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader03 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign03text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader03 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded3 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon3 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time3 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+    .uxdesign04border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader04 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign04text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader04 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded4 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon4 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time4 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+    .uxdesign05border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader05 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign05text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader05 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded5 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon5 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time5 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign06border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader06 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign06text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader06 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded6 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon6 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time6 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+    .uxdesign07border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader07 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign07text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader07 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded7 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon7 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time7 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+    .uxdesign08border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader08 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign08text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader08 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded8 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon8 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time8 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign09border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader09 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign09text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader09 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded9 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon9 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time9 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+    .uxdesign10border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader10 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign10text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader10 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded10 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon10 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time10 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+    .uxdesign11border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader11 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign11text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader11 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded11 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon11 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time11 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign12border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader12 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign12text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader12 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded12 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon12 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time12 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+    .uxdesign13border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader13 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign13text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader13 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded13 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon13 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time13 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+    .uxdesign14border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader14 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign14text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader14 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded14 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon14 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time14 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign15border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader15 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign15text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader15 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded15 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon15 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time15 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign16border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader16 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign16text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader16 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded16 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon16 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time16 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* FOOTER BELOW */
+    .footer2 {
+        background-color: white;
+        height: 600px;
+        margin-top: 40px;
+    }
+    .logofooter2 {
+        position: relative;
+        left: 22px;
+        top: 40px;
+    }
+    .iconsfooter2 {
+        display: grid;
+        position: relative;
+        left: 30px;
+        top: 70px;
+        
+    }
+    .emailfooter2 {
+        height: 40px;
+    }
+    .phonefooter2 {
+        height: 40px;
+    }
+    .mapfooter2 {
+        height: 40px;
+    }
+    .emailtextfooter2 {
+        position: relative;
+        left: 35px;
+        bottom: 37px;
+    }
+    .phonetextfooter2 {
+        position: relative;
+        left: 35px;
+        bottom: 37px;
+    }
+    .maptextfooter2 {
+        position: relative;
+        left: 35px;
+        bottom: 37px;
+    }
+    .homesectionfooter2 {
+        display: grid;
+        position: relative;
+        right: 45px;
+        bottom: 15px;
+    
+            ul{
+                display: grid;
+                position: relative;
+                bottom: 15px;
+                gap: 15px;
+            }
+    }
+    .aboutusfooter2 {
+        display: grid;
+        position: relative;
+        left: 160px;
+        bottom: 225px;
+    
+            ul{
+                display: grid;
+                position: relative;
+                bottom: 15px;
+                right: 40px;
+                gap: 15px;
+            }
+    }
+    li {
+        list-style-type: none;
+    }
+    .homeheaderfooter2{
+        position: relative;
+        left: 40px;
+    }
+    .socialprofiles {
+        position: relative;
+        bottom: 145px;
+        left: 25px;
+    }
+    .facebookicons {
+        position: relative;
+        left: 15px;
+        top: 15px;
+    }
+    .twittericons {
+        position: relative;
+        left: 15px;
+        top: 15px;
+    }
+    .indeedicons {
+        position: relative;
+        left: 15px;
+        top: 15px;
+    }
+    .socialmediaiconsquare {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        background-color: rgba(241, 241, 243, 1);
+        border-radius: 8px;
+    
+    }
+    .socialmediaiconsquare1 {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        background-color: rgba(241, 241, 243, 1);
+        left: 55px;
+        bottom: 50px;
+        border-radius: 8px;
+    }
+    .socialmediaiconsquare2 {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        background-color: rgba(241, 241, 243, 1);
+        left: 110px;
+        bottom: 100px;
+        border-radius: 8px;
+    }
+    
+    .hr3 {
+        position: relative;
+        width: 270px;
+        left: 15px;
+        opacity: 20%;
+    }
+    .copyright {
+        position: relative;
+        bottom: 68px;
+    }
+    .footersection2 {
+        background-color: white;
+        width: 330px;
+        position: relative;
+        right: 960px;
+        top: 4550px;
+        padding-left: 10px;
+        height: 750px;
+    }
+    .copyright2 {
+        width: 330px;
+        font-size:medium ;
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media only screen and (max-width:390px){
+
+    .signupicons {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 100px;
+        position:relative;
+        left: 145px;
+        height: 15px;
+        margin-bottom: 15px;
+       
+            
+    }
+    .headertext2 {
+        position: relative;
+        top: 65px;
+        right: 215px;
+        width: 320px;
+        padding-top:15px;
+       
+    
+    }
+    .paragraph2 {
+        position: relative;
+        top: 65px;
+        right: 215px;
+        width: 330px;
+    }
+    .uxdesignheaderimgmobile {
+        position: relative;
+        top: 55px;
+        margin-top: 10px;
+        right: 230px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 1 MOBILE */
+    /* .whitespace {
+        position: relative;
+        background-color: white;
+        top: 655px;
+        right: 610px;
+        width: 340px;
+        border-radius:4px;
+        margin: 10px;
+        padding-bottom: 15px;
+    }
+    .uxdesign01border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader01 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign01text {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesignheader01 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 2 MOBILE */
+    .uxdesign02border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader02 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign02text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader02 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded2 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon2 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time2 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 3 MOBILE */
+    .uxdesign03border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader03 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign03text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader03 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded3 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon3 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time3 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+    .uxdesign04border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader04 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign04text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader04 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded4 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon4 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time4 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+    .uxdesign05border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader05 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign05text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader05 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded5 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon5 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time5 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign06border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader06 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign06text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader06 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded6 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon6 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time6 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+    .uxdesign07border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader07 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign07text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader07 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded7 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon7 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time7 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+    .uxdesign08border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader08 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign08text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader08 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded8 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon8 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time8 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign09border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader09 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign09text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader09 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded9 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon9 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time9 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+    .uxdesign10border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader10 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign10text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader10 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded10 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon10 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time10 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+    .uxdesign11border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader11 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign11text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader11 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded11 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon11 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time11 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign12border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader12 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign12text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader12 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded12 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon12 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time12 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+    .uxdesign13border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader13 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign13text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader13 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded13 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon13 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time13 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+    .uxdesign14border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader14 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign14text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader14 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded14 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon14 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time14 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign15border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader15 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign15text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader15 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded15 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon15 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time15 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    /* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+    .uxdesign16border {
+        border: solid 1px rgb(216, 216, 216);
+        margin-bottom: 15px;
+        border-radius: 4px;
+        border-width: 1px;
+        width: 300px;
+        height: 200px;
+        margin-left: 20px;
+        
+    }
+    .uxdesignsubheader16 {
+        position: relative;
+        left: 20px;
+    }
+    .uxdesign16text {
+        position: relative;
+        left: 20px;
+        width: 280px;
+    }
+    .uxdesignheader16 {
+        position: relative;
+        margin: 5px;
+        top: 15px;
+        left: 270px;
+        margin-top: 10px;
+    }
+    .timeneeded16 {
+        display: flex;
+        position: relative;
+        background-color: #F7F7F8;
+        width: 135px;
+        height:40px;
+        left: 20px;
+        border-radius: 4px;
+    }
+    .clockicon16 {
+        position: relative;
+        top: 12px;
+        left: 8px;
+    }
+    .time16 {
+        position: relative;
+        left: 18px;
+        bottom: 7px;
+    }
+    
+    /* FOOTER BELOW */
+    .footer2 {
+        background-color: white;
+        height: 600px;
+        margin-top: 40px;
+    }
+    .logofooter2 {
+        position: relative;
+        left: 22px;
+        top: 40px;
+    }
+    .iconsfooter2 {
+        display: grid;
+        position: relative;
+        left: 30px;
+        top: 70px;
+        
+    }
+    .emailfooter2 {
+        height: 40px;
+    }
+    .phonefooter2 {
+        height: 40px;
+    }
+    .mapfooter2 {
+        height: 40px;
+    }
+    .emailtextfooter2 {
+        position: relative;
+        left: 35px;
+        bottom: 37px;
+    }
+    .phonetextfooter2 {
+        position: relative;
+        left: 35px;
+        bottom: 37px;
+    }
+    .maptextfooter2 {
+        position: relative;
+        left: 35px;
+        bottom: 37px;
+    }
+    .homesectionfooter2 {
+        display: grid;
+        position: relative;
+        right: 45px;
+        bottom: 15px;
+    
+            ul{
+                display: grid;
+                position: relative;
+                bottom: 15px;
+                gap: 15px;
+            }
+    }
+    .aboutusfooter2 {
+        display: grid;
+        position: relative;
+        left: 160px;
+        bottom: 225px;
+    
+            ul{
+                display: grid;
+                position: relative;
+                bottom: 15px;
+                right: 40px;
+                gap: 15px;
+            }
+    }
+    li {
+        list-style-type: none;
+    }
+    .homeheaderfooter2{
+        position: relative;
+        left: 40px;
+    }
+    .socialprofiles {
+        position: relative;
+        bottom: 145px;
+        left: 25px;
+    }
+    .facebookicons {
+        position: relative;
+        left: 15px;
+        top: 15px;
+    }
+    .twittericons {
+        position: relative;
+        left: 15px;
+        top: 15px;
+    }
+    .indeedicons {
+        position: relative;
+        left: 15px;
+        top: 15px;
+    }
+    .socialmediaiconsquare {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        background-color: rgba(241, 241, 243, 1);
+        border-radius: 8px;
+    
+    }
+    .socialmediaiconsquare1 {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        background-color: rgba(241, 241, 243, 1);
+        left: 55px;
+        bottom: 50px;
+        border-radius: 8px;
+    }
+    .socialmediaiconsquare2 {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        background-color: rgba(241, 241, 243, 1);
+        left: 110px;
+        bottom: 100px;
+        border-radius: 8px;
+    }
+    
+    .hr3 {
+        position: relative;
+        width: 270px;
+        left: 15px;
+        opacity: 20%;
+    }
+    .copyright {
+        position: relative;
+        bottom: 68px;
+    }
+    .footersection2 {
+        background-color: white;
+        width: 330px;
+        position: relative;
+        right: 960px;
+        top: 4550px;
+        padding-left: 10px;
+        height: 750px;
+    }
+    .copyright2 {
+        width: 330px;
+        font-size:medium ;
+    }
+    
+/* COURSES OPEN PAGE CSS BEGINS HERE */
+/* determining responsive web design - mobile */
+@media only screen and (max-width:390px){
+
+.signupicons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px;
+    position:relative;
+    left: 145px;
+    height: 15px;
+    margin-bottom: 15px;
+   
+        
+}
+.headertext2 {
+    position: relative;
+    top: 65px;
+    right: 215px;
+    width: 320px;
+    padding-top:15px;
+   
+
+}
+.paragraph2 {
+    position: relative;
+    top: 65px;
+    right: 215px;
+    width: 330px;
+}
+.uxdesignheaderimgmobile {
+    position: relative;
+    top: 55px;
+    margin-top: 10px;
+    right: 230px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 1 MOBILE */
+.whitespace {
+    position: relative;
+    background-color: white;
+    top: 655px;
+    right: 610px;
+    width: 340px;
+    border-radius:4px;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.uxdesign01border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader01 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign01text {
+    position: relative;
+    left: 20px;
+}
+.uxdesignheader01 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 2 MOBILE */
+.uxdesign02border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader02 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign02text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader02 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded2 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon2 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time2 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 3 MOBILE */
+.uxdesign03border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader03 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign03text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader03 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded3 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon3 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time3 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+.uxdesign04border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader04 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign04text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader04 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded4 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon4 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time4 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+.uxdesign05border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader05 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign05text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader05 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded5 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon5 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time5 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+
+/* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+.uxdesign06border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader06 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign06text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader06 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded6 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon6 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time6 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+.uxdesign07border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader07 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign07text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader07 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded7 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon7 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time7 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+.uxdesign08border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader08 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign08text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader08 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded8 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon8 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time8 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+
+/* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+.uxdesign09border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader09 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign09text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader09 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded9 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon9 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time9 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+.uxdesign10border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader10 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign10text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader10 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded10 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon10 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time10 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+.uxdesign11border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader11 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign11text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader11 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded11 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon11 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time11 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+
+/* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+.uxdesign12border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader12 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign12text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader12 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded12 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon12 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time12 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 4 MOBILE */
+.uxdesign13border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader13 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign13text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader13 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded13 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon13 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time13 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 5 MOBILE */
+.uxdesign14border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader14 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign14text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader14 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded14 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon14 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time14 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+
+/* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+.uxdesign15border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader15 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign15text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader15 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded15 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon15 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time15 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+/* INTRODUCTION TO UX/UI DESIGN BOX 6 MOBILE */
+.uxdesign16border {
+    border: solid 1px rgb(216, 216, 216);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+.uxdesignsubheader16 {
+    position: relative;
+    left: 20px;
+}
+.uxdesign16text {
+    position: relative;
+    left: 20px;
+    width: 280px;
+}
+.uxdesignheader16 {
+    position: relative;
+    margin: 5px;
+    top: 15px;
+    left: 270px;
+    margin-top: 10px;
+}
+.timeneeded16 {
+    display: flex;
+    position: relative;
+    background-color: #F7F7F8;
+    width: 135px;
+    height:40px;
+    left: 20px;
+    border-radius: 4px;
+}
+.clockicon16 {
+    position: relative;
+    top: 12px;
+    left: 8px;
+}
+.time16 {
+    position: relative;
+    left: 18px;
+    bottom: 7px;
+}
+
+/* FOOTER BELOW */
+.footer2 {
+    background-color: white;
+    height: 600px;
+    margin-top: 40px;
+}
+.logofooter2 {
+    position: relative;
+    left: 22px;
+    top: 40px;
+}
+.iconsfooter2 {
+    display: grid;
+    position: relative;
+    left: 30px;
+    top: 70px;
+    
+}
+.emailfooter2 {
+    height: 40px;
+}
+.phonefooter2 {
+    height: 40px;
+}
+.mapfooter2 {
+    height: 40px;
+}
+.emailtextfooter2 {
+    position: relative;
+    left: 35px;
+    bottom: 37px;
+}
+.phonetextfooter2 {
+    position: relative;
+    left: 35px;
+    bottom: 37px;
+}
+.maptextfooter2 {
+    position: relative;
+    left: 35px;
+    bottom: 37px;
+}
+.homesectionfooter2 {
+    display: grid;
+    position: relative;
+    right: 45px;
+    bottom: 15px;
+
+        ul{
+            display: grid;
+            position: relative;
+            bottom: 15px;
+            gap: 15px;
+        }
+}
+.aboutusfooter2 {
+    display: grid;
+    position: relative;
+    left: 160px;
+    bottom: 225px;
+
+        ul{
+            display: grid;
+            position: relative;
+            bottom: 15px;
+            right: 40px;
+            gap: 15px;
+        }
+}
+li {
+    list-style-type: none;
+}
+.homeheaderfooter2{
+    position: relative;
+    left: 40px;
+}
+.socialprofiles {
+    position: relative;
+    bottom: 145px;
+    left: 25px;
+}
+.facebookicons {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+.twittericons {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+.indeedicons {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+.socialmediaiconsquare {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: rgba(241, 241, 243, 1);
+    border-radius: 8px;
+
+}
+.socialmediaiconsquare1 {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: rgba(241, 241, 243, 1);
+    left: 55px;
+    bottom: 50px;
+    border-radius: 8px;
+}
+.socialmediaiconsquare2 {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: rgba(241, 241, 243, 1);
+    left: 110px;
+    bottom: 100px;
+    border-radius: 8px;
+}
+
+.hr3 {
+    position: relative;
+    width: 270px;
+    left: 15px;
+    opacity: 20%;
+}
+.copyright {
+    position: relative;
+    bottom: 68px;
+}
+.footersection2 {
+    background-color: white;
+    width: 330px;
+    position: relative;
+    right: 960px;
+    top: 4550px;
+    padding-left: 10px;
+    height: 750px;
+}
+.copyright2 {
+    width: 330px;
+    font-size:medium ;
+} */
+}
+    } */
