@@ -9,6 +9,17 @@
 /* determining responsive web design - desktop */
 @media only screen and (min-width:1051px){
 
+    /* containers holding content of site */
+.container {
+    display: grid;
+    background-color: green;
+
+
+}    
+.container1 {
+    position: relative;
+   
+}
 }
 /* determining responsive web design - laptop */
 @media only screen and (max-width:1050px){}
@@ -1780,63 +1791,7 @@ li {
     bottom: 68px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BELOW IS THE COURSES PAGE MOBILE VERSION
+/* BELOW IS THE COURSES PAGE MOBILE VERSION */
 
 /* determining responsive web design - mobile */
 @media only screen and (max-width:390px){
