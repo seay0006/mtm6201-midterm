@@ -5,7 +5,12 @@
     font-weight: 400;
     font-style: normal;
   }
-
+.large-screen-content {
+    display: none;
+}
+.small-screen-display{
+    display: none;
+}
 /* determining responsive web design - desktop */
 @media only screen and (min-width:1051px){
 
@@ -22,8 +27,115 @@
 }
 }
 /* determining responsive web design - laptop */
-@media only screen and (max-width:1050px){}
+@media only screen and (min-width:391px){
 
+    html{
+        background-color: #F7F7F8;
+        font-size: 18px;
+    }
+    .large-screen-content {
+        display: block;
+    }
+      /* containers holding content of site */
+.container {
+    display: grid;
+    background-color: #F7F7F8;
+    font-size: 18px;
+
+.container1 {
+    border-radius: 10px;
+    width: 1050px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ff9500;
+    color: white;
+    text-align: center;
+}
+
+span {
+    content: "\22C6";
+  }
+/* navigation at the top left of the page */
+.large-screen-content {
+    display: grid;
+    position: relative;
+    bottom: 48px;
+    left: 150px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+/* login button at the top of page */
+.login {
+    position: relative;
+    text-align: center;
+    left: 915px;
+    bottom: 155px;
+    height: 35px;
+    width: 80px;
+    background-color: #ff9500;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: white;
+
+}
+/* signup button at the top of page */
+.signup {
+    position: relative;
+    text-align: center;
+    left: 825px;
+    bottom: 105px;
+    height: 40px;
+    width: 70px;
+    padding-top: 12px;
+}
+/* logo in the top left of page */
+.logo {
+    position: relative;
+    top: 5px;
+    left: 55px;
+    background-color: #ff9500;
+    border-radius: 8px;
+    height: 50px;
+    width: 50px;
+        img {
+    
+        width: 49px;
+    }
+}
+.dropdown {
+    position: relative;
+    top: 20px;
+    left: px;
+    div {
+        width: 35px;
+        height: 5px;
+        background-color: black;
+        margin: 6px 0;
+      }
+}
+.onlinecourses {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position: relative;
+    right: 220px;
+    top: 150px;
+    width: 360px;
+}
+.headertext2 {
+    position: relative;
+    bottom: 10px;
+    left: 40px;
+    width: 320px;
+    padding-top:15px;
+
+.paragraph2 {
+    position: relative;
+    
+    }
+
+}
+} 
+}
 
 /* _______________________________________________________________________ */
 /* determining responsive web design - mobile */
@@ -44,6 +156,9 @@
         color: white;
         text-align: center;
         
+}
+.small-screen-display{
+    display: block;
 }
 }
 html{
