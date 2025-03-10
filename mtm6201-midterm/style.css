@@ -7,7 +7,7 @@
   }
 
 /* determining responsive web design - desktop */
-@media only screen and (min-width:1051px){
+@media only screen and (min-width:1440px){
 
     /* containers holding content of site */
 .container {
@@ -22,7 +22,7 @@
 }
 }
 /* determining responsive web design - laptop */
-@media only screen and (max-width:1050px){}
+@media only screen and (max-width:1083px){}
 
 
 /* _______________________________________________________________________ */

@@ -12,26 +12,27 @@
     display: none;
 }
 /* determining responsive web design - desktop */
-@media only screen and (min-width:1400px){
+@media only screen and (max-width:1440px){
 
     /* containers holding content of site */
-.container {
-    display: grid;
-    background-color: green;
 
-
-}    
+    html{
+        back
+    }
 .container1 {
     position: relative;
    
 }
 }
 /* determining responsive web design - laptop */
-@media only screen and (min-width:391px){
+@media only screen and (max-width:1084px){
 
     html{
         background-color: #F7F7F8;
         font-size: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .large-screen-content {
         display: block;
@@ -1202,7 +1203,7 @@ span {
     top: 40px;
 }
 .iconsfooter2 {
-    display: grid;
+    /* display: grid; */
     position: relative;
     left: 30px;
     top: 70px;
@@ -1237,7 +1238,6 @@ span {
     position: relative;
     left: 415px;
     bottom: 165px;
-
         ul{
             display: grid;
             position: relative;
@@ -1268,8 +1268,8 @@ li {
 }
 .socialprofiles {
     position: relative;
-    /* bottom: 145px;
-    left: 20025px; */
+    width: 160px;
+    height: 100px;
     
         h3 {
             position: relative;
@@ -1290,7 +1290,7 @@ li {
 .indeedicons {
     position: relative;
     left: 15px;
-    top: 15px;
+    bottom: 15px;
 }
 .socialmediaiconsquare {
     position: relative;
@@ -1340,6 +1340,37 @@ li {
 .copyright2 {
     width: 330px;
     font-size:medium ;
+}
+.iconslaptop {
+    position: relative;
+    /* left: 780px; */
+    /* bottom: 580px; */
+}
+.iconslaptop1 {
+    position: relative;
+    /* left: 780px; */
+    /* bottom: 580px; */
+}
+.laptopiconsquaresfooter {
+    position: relative;
+    left: 810px;
+    bottom: 580px;
+}
+/* copyright line and hr below */
+.footerbottommobile2 {
+    position: relative;
+    bottom: 520px;
+    margin-top: 15px;
+    p {
+        position: relative;
+        left: 360px;
+        bottom: 12px;
+    }
+    hr {
+        position: relative;
+        bottom: 25px;
+        width: 1000px;
+    }
 }
 
 
