@@ -5,7 +5,12 @@
     font-weight: 400;
     font-style: normal;
   }
-
+.mobileonly {
+    display: none;
+}
+.laptopanddesktop {
+    display: none;
+}
 /* determining responsive web design - desktop */
 @media only screen and (min-width:1440px){
 
@@ -23,6 +28,87 @@
 }
 /* determining responsive web design - laptop */
 @media only screen and (max-width:1083px){}
+
+.laptopanddesktop {
+    display: block;
+}
+html{
+    background-color: #F7F7F8;
+    font-size: 14px;
+}
+span {
+    content: "\22C6";
+  }
+.homepageimagelaptop {
+    img {
+        width: 100%;
+        height: auto;
+    }
+  }
+.grid1 {
+    display: grid;
+    grid-template-columns: 15fr 30fr 20fr 20fr 15fr;
+    grid-template-rows: 1vh;
+    grid-auto-flow: column;
+}
+/* login button at the top of page */
+.login {
+    position: relative;
+    text-align: center;
+    right: 15px;
+    top: 15px;
+    height: 35px;
+    width: 80px;
+    background-color: #ff9500;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: white;
+}
+/* signup button at the top of page */
+.signup {
+    position: relative;
+    right: 15px;
+    text-align: center;
+    top: 15px;
+    height: 40px;
+    width: 70px;
+    padding-top: 12px;
+}
+/* logo in the top left of page */
+.logo {
+    position: relative;
+    top: 5px;
+    left: 15px;
+    background-color: #ff9500;
+    border-radius: 8px;
+    height: 50px;
+    width: 50px;
+        img {
+    
+        width: 49px;
+    }
+}
+.container {
+    display: grid;
+    background-color: #F7F7F8;
+    font-size: 18px;
+    
+    .container1 {
+        border-radius: 10px;
+        width: 1050px;
+        padding: 10px;
+        margin: 10px;
+        background-color: #ff9500;
+        color: white;
+        text-align: center;
+    }
+    .hr1 {
+        position: relative;
+        top: 262px;
+        opacity: 15%;
+        margin-bottom: 70px;
+    }
+}
 
 
 /* _______________________________________________________________________ */
@@ -44,6 +130,9 @@
         color: white;
         text-align: center;
         
+}
+mobileonly {
+    display: block;
 }
 }
 html{
