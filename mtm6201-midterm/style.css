@@ -33,7 +33,6 @@
 
 /* determining responsive web design - laptop */
 @media screen and (min-width:391px) and (max-width:1083px){
-
 .laptopanddesktop {
     display: block;
 }
@@ -46,10 +45,15 @@ span {
   }
 .homepageimagelaptop {
     img {
-        width: 100%;
+        width: 80%;
         height: auto;
     }
   }
+.hr1 {
+    position: relative;
+    top: 60px;
+}
+
 .grid1 {
     display: grid;
     grid-template-columns: 15fr 30fr 20fr 20fr 15fr;
@@ -61,7 +65,7 @@ span {
     position: relative;
     text-align: center;
     left: 265px;
-    top: 15px;
+    bottom: 35px;
     height: 35px;
     width: 80px;
     background-color: #ff9500;
@@ -72,7 +76,7 @@ span {
 /* signup button at the top of page */
 .signup {
     position: relative;
-    left: 385px;
+    left: 165px;
     text-align: center;
     top: 15px;
     height: 40px;
@@ -144,6 +148,79 @@ span {
     position: relative;
     left: 50px;
     top: 250px;
+}
+.ecourses {
+    position: relative;
+    text-align: center;
+    left: 300px;
+    top: 135px;
+    height: 50px;
+    width: 150px;
+    background-color: #ff9500;
+    border-radius: 8px;
+    color: white;
+    
+    h3{
+        position: relative;
+        top: 15px;
+    }
+}
+.vpricing {
+    position: relative;
+    text-align: center;
+    top: 70px;
+    left: 455px;
+    height: 50px;
+    width: 150px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+
+    h3{
+        position: relative;
+        top: 15px;
+    }
+}
+.grid3{
+    display: grid;
+    position: relative;
+    grid-template-columns: 14.29% 14.29% 14.29% 14.29% 14.29% 14.29% 14.29%;
+    
+    .zapier {
+     position: relative;
+     left: 5px;
+     top: 50px;
+    }
+    .spotify {
+     position: relative;
+     left: 5px;
+     top: 50px;
+    }
+    .zoom {
+        position: relative;
+        left: 5px;
+        top: 50px;
+       }
+    .amazon {
+        position: relative;
+        left: 5px;
+        top: 50px;
+    }
+    .adobe {
+        position: relative;
+        left: 5px;
+        top: 15px;
+    }
+    .notion {
+        position: relative;
+        left: 5px;
+        top: 50px;
+    }
+    .netflix {
+        position: relative;
+        left: 5px;
+        top: 50px;
+    }
 }
 }
 /* _______________________________________________________________________ */

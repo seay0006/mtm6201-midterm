@@ -12,7 +12,7 @@
     display: none;
 }
 /* determining responsive web design - desktop */
-@media only screen and (max-width:1440px){
+@media screen and (min-width: 1084px) and (max-width:1440px){
 
     /* containers holding content of site */
 
@@ -25,7 +25,7 @@
 }
 }
 /* determining responsive web design - laptop */
-@media only screen and (max-width:1084px){
+@media screen and (min-width:391px) and (max-width:1083px){
 
     html{
         background-color: #F7F7F8;
