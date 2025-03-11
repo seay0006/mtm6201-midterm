@@ -11,6 +11,9 @@
 .laptopanddesktop {
     display: none;
 }
+.laptoponly {
+    display: none;
+}
 /* determining responsive web design - desktop */
 
 @media screen and (min-width: 1084px) and (max-width:1440px){
@@ -33,7 +36,13 @@
 /* determining responsive web design - laptop */
 @media screen and (min-width:391px) and (max-width:1083px){
 .laptopanddesktop {
-    display: block;
+    display: block !important;
+}
+.mobileonly {
+    display: none !important;
+}
+.laptoponly {
+    display: block !important;
 }
 html{
     background-color: #F7F7F8;
@@ -41,14 +50,14 @@ html{
 }
 span {
     content: "\22C6";
-  }
+}
 .homepageimagelaptop {
     img {
         width: 1020px;
         height: auto;
         left: 8px;
     }
-  }
+}
 .hr1 {
     position: relative;
     top: 60px;
@@ -118,9 +127,7 @@ span {
         color: white;
         text-align: center;
     }
-
 }
-
 .text1 {
     display: flex;
     align-items: center;
@@ -138,8 +145,6 @@ span {
         right: 320px;
     }
 }
-
-
 .box3 {
     background-color: white;
     width: 500px;
@@ -234,20 +239,13 @@ span {
     bottom: 45px;
     }
 }
-
 /* BENEFITS SECTION OF HOMEPAGE LAPTOP */
 
 .benefits {
     position: relative;
     width: 680px;
     left: 15px;
-
-    /* img{
-        position: relative;
-        right: 15px;
-    }
-} */
-
+}
 .viewall {
     position: relative;
     text-align: center;
@@ -264,6 +262,7 @@ span {
         top: 10px;
     }
 }
+
 .grid4{
     display: grid;
     margin: 10px;
@@ -336,31 +335,431 @@ span {
         left: 18px;
         top: 18px;
     }
-}}
-/* OUR COURSES SECTION  */
-/* _______________________________________________________________________ */
-/* determining responsive web design - mobile */
+}
+
+/* Web design fundamentals starts here */
+.webdesfund-container {
+    position: relative;
+    top: 25px;
+    left: 45px;
+    border-radius: 6px;
+    background-color: white;
+    width: 485px;
+    height: 450px;
+    margin-top: 10px;
+    margin-right: 10px;
+
+    img {
+        position: relative;
+        left: 40px;
+        top: 25px;
+    }
+}
+
+.weeks-needed {
+    position: relative;
+    left: 55px;
+    top: 15px;
+}
+.difficulty{
+    position: relative;
+    left: 140px;
+    bottom: 15px;
+}
+.webdesfun-authorsname {
+    position: relative;
+    left: 335px;
+    bottom: 45px;
+}
+.webdesfun-header {
+    position: relative;
+    left: 45px;
+    bottom: 40px;
+}
+.webdesfund-description {
+    position: relative;
+    width: 380px;
+    left: 50px;
+    bottom: 40px;
+}
+.box4 {
+    position: relative;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    top: 390px;
+    right: 210px;
+    height: 40px;
+    width: 155px;
+}
+.getitnow {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    width: 900px;
+    right: 120px;
+    bottom: 880px;
+}
+
+/* UX Design starts here */
+.uxdes-container {
+    position: relative;
+    left: 545px;
+    bottom: 425px;
+    border-radius: 6px;
+    background-color: white;
+    width: 485px;
+    height: 450px;
+
+    img {
+        position: relative;
+        left: 40px;
+        top: 25px;
+    }
+}
+
+.weeks-needed {
+    position: relative;
+    left: 55px;
+    top: 15px;
+}
+.difficulty {
+    position: relative;
+    left: 140px;
+    bottom: 15px;
+}
+.uxdes-authorsname {
+    position: relative;
+    left: 335px;
+    bottom: 45px;
+}
+.uxdes-header {
+    position: relative;
+    left: 45px;
+    bottom: 40px;
+}
+.uxdes-description {
+    position: relative;
+    width: 400px;
+    left: 50px;
+    bottom: 40px;
+}
+.box4 {
+    position: relative;
+    background-color: #252583;
+    border-radius: 6px;
+    bottom: 200px;
+    height: 40px;
+    width: 155px;
+}
+.getitnow {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    width: 900px;
+    left: 380px;
+    bottom: 100px;
+}
+/* Mobile App Development starts here */
+
+.mobappdev-container {
+    position: relative;
+    left: 45px;
+    bottom: 410px;
+    border-radius: 6px;
+    background-color: white;
+    width: 485px;
+    height: 450px;
+
+    img {
+        position: relative;
+        left: 40px;
+        top: 25px;
+    }
+}
+
+.weeks-needed {
+    position: relative;
+    left: 55px;
+    top: 15px;
+}
+.difficulty {
+    position: relative;
+    left: 140px;
+    bottom: 15px;
+}
+.mobappdev-authorsname {
+    position: relative;
+    left: 335px;
+    bottom: 45px;
+}
+.mobappdev-header {
+    position: relative;
+    left: 45px;
+    bottom: 40px;
+}
+.mobappdev-description {
+    position: relative;
+    width: 400px;
+    left: 50px;
+    bottom: 40px;
+}
+.box4 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    top: 390px;
+    right: 210px;
+    height: 40px;
+    width: 155px;
+}
+.getitnow {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    width: 900px;
+    right: 120px;
+    bottom: 880px;
+}
+/* Graphic Design For Beginners */
+.graphicdes-container {
+    position: relative;
+    left: 545px;
+    bottom: 860px;
+    border-radius: 6px;
+    background-color: white;
+    width: 485px;
+    height: 450px;
+
+    img {
+        position: relative;
+        left: 40px;
+        top: 25px;
+    }
+}
+
+.weeks-needed {
+    position: relative;
+    left: 55px;
+    top: 15px;
+}
+.difficulty {
+    position: relative;
+    left: 140px;
+    bottom: 15px;
+}
+.graphicdes-authorsname {
+    position: relative;
+    left: 335px;
+    bottom: 45px;
+}
+.graphicdes-header {
+    position: relative;
+    left: 45px;
+    bottom: 40px;
+}
+.graphicdes-description {
+    position: relative;
+    width: 400px;
+    left: 50px;
+    bottom: 40px;
+}
+.box4 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    top: 390px;
+    right: 210px;
+    height: 40px;
+    width: 155px;
+}
+.getitnow {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    width: 900px;
+    right: 120px;
+    bottom: 880px;
+}
+/* Front-End Web Development */
+.frontendweb-container {
+    position: relative;
+    left: 45px;
+    bottom: 845px;
+    border-radius: 6px;
+    background-color: white;
+    width: 485px;
+    height: 450px;
+
+    img {
+        position: relative;
+        left: 40px;
+        top: 25px;
+    }
+}
+
+.weeks-needed {
+    position: relative;
+    left: 55px;
+    top: 15px;
+}
+.difficulty {
+    position: relative;
+    left: 140px;
+    bottom: 15px;
+}
+.frontendweb-authorsname {
+    position: relative;
+    left: 335px;
+    bottom: 45px;
+}
+.frontendweb-header {
+    position: relative;
+    left: 45px;
+    bottom: 40px;
+}
+.frontendweb-description {
+    position: relative;
+    width: 400px;
+    left: 50px;
+    bottom: 40px;
+}
+.box4 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    top: 390px;
+    right: 210px;
+    height: 40px;
+    width: 155px;
+}
+.getitnow {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    width: 900px;
+    right: 120px;
+    bottom: 880px;
+}
+/* Advanced Javascript */
+.advjava-container {
+    position: relative;
+    left: 545px;
+    bottom: 1295px;
+    border-radius: 6px;
+    background-color: white;
+    width: 485px;
+    height: 450px;
+
+    img {
+        position: relative;
+        left: 40px;
+        top: 25px;
+    }
+}
+
+.weeks-needed {
+    position: relative;
+    left: 55px;
+    top: 15px;
+}
+.difficulty {
+    position: relative;
+    left: 140px;
+    bottom: 15px;
+}
+.advjava-authorsname {
+    position: relative;
+    left: 335px;
+    bottom: 45px;
+}
+.advjava-header {
+    position: relative;
+    left: 45px;
+    bottom: 40px;
+}
+.advjava-description {
+    position: relative;
+    width: 400px;
+    left: 50px;
+    bottom: 40px;
+}
+.box4 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    top: 390px;
+    right: 210px;
+    height: 40px;
+    width: 155px;
+}
+.getitnow {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F8;
+    border-radius: 6px;
+    width: 900px;
+    right: 120px;
+    bottom: 880px;
+}
+
+
+
+
 
 }
-/* determining responsive web design - mobile */
-@media screen and (min-width: 1px) and (max-width:390px){
 
-    .laptopanddesktop {
-        display: none !important;
-    }
-        /* containers holding content of site */
-    .container {
-        display: grid;
-        background-color: #F7F7F8;
-        font-size: 18px;
-        .container1 {
-            border-radius: 10px;
-            width: 350px;
-            padding: 10px;
-            margin: 10px;
-            background-color: #ff9500;
-            color: white;
-            text-align: center;
+/* determining responsive web design - mobile */
+@media screen and (max-width: 390px) {
+
+.laptopanddesktop {
+    display: none !important;
+}
+.mobileonly {
+    display: block !important;
+}
+.laptoponly {
+    display: none !important;
+}
+
+/* containers holding content of site */
+.container {
+    display: grid;
+    background-color: #F7F7F8;
+    font-size: 18px;
+    
+    .container1 {
+        border-radius: 10px;
+        width: 350px;
+        padding: 10px;
+        margin: 10px;
+        background-color: #ff9500;
+        color: white;
+        text-align: center;
             
     }
     mobileonly {
@@ -374,32 +773,27 @@ span {
         content: "\22C6";
       }
     
-    .grid1 {
-        display: grid;
-        grid-template-columns: 15fr 30fr 20fr 20fr 15fr;
-        grid-template-rows: 1vh;
-        grid-auto-flow: column;
-    }
-    /* .register {
-        display: grid;
-        position: relative;
-        left: 50px;
-        width: 400px;
-    } */
-    /* login button at the top of page */
-    .login {
-        position: relative;
-        text-align: center;
-        left: 100px;
-        bottom: 40px;
-        height: 35px;
-        width: 80px;
-        background-color: #ff9500;
-        padding-top: 10px;
-        border-radius: 8px;
-        color: white;
+.grid1 {
+    display: grid;
+    grid-template-columns: 15fr 30fr 20fr 20fr 15fr;
+    grid-template-rows: 1vh;
+    grid-auto-flow: column;
+}
+
+/* login button at the top of page */
+.login {
+    position: relative;
+    text-align: center;
+    left: 100px;
+    bottom: 40px;
+    height: 35px;
+    width: 80px;
+    background-color: #ff9500;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: white;
     
-    }
+}
     /* signup button at the top of page */
     .signup {
         position: relative;
@@ -625,34 +1019,27 @@ span {
             top: 18px;
         }
     }
-    .webdesfund {
-        margin-top: 30px;
-        background-color: white;
-        
-        
-        img{
-            width: 450px;
-        }
-    }
-   .webdesfund-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(3,auto);
-    gap: 20px;
-    max-width: 800px;
-    margin: auto;
-   }
-   .webdesfund {
-    background-color: #f7f7f7;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
 
-   }
-    
-    .weeks4 {
-        
+    /* Web Design Fundamentals Box */
+
+    .webdesfund-container{
+        background-color: white;
+        margin-top: 30px;
+        padding-top: 15px;
+        padding-left: 15px;
+        width: 330px ;
+        border-radius: 8px;
+        height: 475px;
+            img {
+                align-items: center;
+            }
+    }
+    .webdesfund-grid {
+        display: grid;
+        grid-template-columns: 25fr 25fr 50fr;
+    }
+
+    .weeks-needed{
         position: relative;
         margin-top: 10px;
         text-align: center;
@@ -667,9 +1054,8 @@ span {
                 bottom: 10px;
              }
     }
-    .beginner {
-        
-        position: relative;
+    .difficulty {
+         position: relative;
         margin-top: 10px;
         text-align: center;
         height: 30px;
@@ -683,6 +1069,7 @@ span {
                 bottom: 10px;
              }
     }
+
     .getitnow {
         display: flex;
         justify-content: center;
@@ -693,15 +1080,14 @@ span {
         margin: auto;
         border-radius: 8px;
     }
+
+    /* UX DESIGN STARTS HERE */
     /* second block below */
-    .grid7 {
-        display: grid;
-    }
-    .uxdesign {
-        margin-top: 30px;
-    }
-    .web2 {
+    
+    .uxdes-container{
+        
         background-color: white;
+        margin-top: 30px;
         padding-top: 15px;
         padding-left: 15px;
         width: 330px ;
@@ -711,12 +1097,12 @@ span {
                 align-items: center;
             }
     }
-    .grid8 {
+    .uxdes-grid {
         display: grid;
         grid-template-columns: 25fr 25fr 50fr;
             
     }
-    .weeks6{
+    .weeks-needed{
         
         position: relative;
         margin-top: 10px;
@@ -732,7 +1118,7 @@ span {
                 bottom: 10px;
              }
     }
-    .intermediate {
+    .difficulty {
          position: relative;
         margin-top: 10px;
         text-align: center;
@@ -757,15 +1143,13 @@ span {
         margin: auto;
         border-radius: 8px;
     }
+
+
     /* mobile app development */
-    .grid9 {
-        display: grid;
-    }
-    .mobileappdev {
-        margin-top: 30px;
-    }
-    .web3 {
+    .mobappdev-container{
+        position: relative;
         background-color: white;
+        margin-top: 30px;
         padding-top: 15px;
         padding-left: 15px;
         width: 330px ;
@@ -775,19 +1159,18 @@ span {
                 align-items: center;
             }
     }
-    .grid10 {
+    .mobappdev-grid {
         display: grid;
         grid-template-columns: 25fr 25fr 50fr;
             
     }
-    .weeks8{
-        
+    .weeks-needed{
         position: relative;
         margin-top: 10px;
         text-align: center;
         height: 30px;
         width: 80px;
-        border: 1px solid rgba(241, 241, 243, 1);
+        border: 1px solid rgb(0, 0, 0);
         border-color: rgba(241, 241, 243, 1);
         background-color: rgb(255, 255, 255);
         border-radius: 8px;
@@ -796,7 +1179,7 @@ span {
                 bottom: 10px;
              }
     }
-    .intermediate2 {
+    .difficulty {
          position: relative;
         margin-top: 10px;
         text-align: center;
@@ -821,70 +1204,9 @@ span {
         margin: auto;
         border-radius: 8px;
     }
-    /* graphic design below */
-    .grid11 {
-        display: grid;
-    }
-    .graphicdesign {
-        margin-top: 30px;
-    }
-    .web4 {
-        background-color: white;
-        padding-top: 15px;
-        padding-left: 15px;
-        width: 330px ;
-        border-radius: 8px;
-        height: 475px;
-            img {
-                align-items: center;
-            }
-    }
-    .grid12 {
-        display: grid;
-        grid-template-columns: 25fr 25fr 50fr;
-            
-    }
-    .week10{
-        
-        position: relative;
-        margin-top: 10px;
-        text-align: center;
-        height: 30px;
-        width: 80px;
-        border: 1px solid rgba(241, 241, 243, 1);
-        border-color: rgba(241, 241, 243, 1);
-        background-color: rgb(255, 255, 255);
-        border-radius: 8px;
-             p{
-                position: relative;
-                bottom: 10px;
-             }
-    }
-    .beginner2 {
-         position: relative;
-        margin-top: 10px;
-        text-align: center;
-        height: 30px;
-        width: 80px;
-        border: 1px solid rgba(241, 241, 243, 1);
-        border-color: rgba(241, 241, 243, 1);
-        background-color: rgb(255, 255, 255);
-        border-radius: 8px;
-             p{
-                position: relative;
-                bottom: 10px;
-             }
-    }
-    .getitnow {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: #F7F7F8;
-        height: 50px;
-        width: 285px;
-        margin: auto;
-        border-radius: 8px;
-    }
+
+
+    /*  */
     .frontendwebdev {
         margin-top: 30px;
     }
@@ -2124,4 +2446,4 @@ span {
         position: relative;
         bottom: 68px;
     }
-    }
+}
