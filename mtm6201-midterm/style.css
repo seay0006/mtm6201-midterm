@@ -727,8 +727,110 @@ span {
     bottom: 880px;
 }
 
-
-
+.ourtestimonials {
+    position: relative;
+    bottom: 1250px;
+    left: 50px;
+    width: 700px;
+}
+.testimonialsblock1 {
+    position: relative;
+    background-color: white;
+    height: 200px;
+    width: 485px;
+    bottom: 1250px;
+    margin-left: 50px;
+}
+.testimonialsblock2 {
+    position: relative;
+    background-color: white;
+    height: 200px;
+    width: 485px;
+    bottom: 1620px;
+    left: 500px;
+    margin-left: 50px;
+}
+.testimonialsblock3 {
+    position: relative;
+    background-color: white;
+    height: 200px;
+    width: 485px;
+    bottom: 1470px;
+    margin-left: 50px;
+}
+.testimonialsblock4 {
+    position: relative;
+    background-color: white;
+    height: 200px;
+    width: 485px;
+    bottom: 1845px;
+    left: 500px;
+    margin-left: 50px;
+}
+/* Sarah L */
+.testimonials-headshot1 {
+    position: relative;
+    bottom: 1240px;
+    left: 100px;
+}
+.testimonials-name1{
+    position: relative;
+    left: 75px;
+    bottom: 50px;
+}
+.readfullstory1{
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+}
+/* Jason M */
+.testimonials-headshot2 {
+    position: relative;
+    bottom: 1610px;
+    left: 600px;
+}
+.testimonials-name2{
+    position: relative;
+    left: 75px;
+    bottom: 50px;
+}
+.readfullstory2{
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+}
+/* Emily R */
+.testimonials-headshot3 {
+    position: relative;
+    bottom: 1460px;
+    left: 100px;
+}
+.testimonials-name3{
+    position: relative;
+    left: 75px;
+    bottom: 50px;
+}
+.readfullstory3{
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+}
+/* Michael K */
+.testimonials-headshot4 {
+    position: relative;
+    bottom: 1830px;
+    left: 600px;
+}
+.testimonials-name4{
+    position: relative;
+    left: 75px;
+    bottom: 50px;
+}
+.readfullstory4{
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+}
 
 
 }
