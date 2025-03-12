@@ -734,44 +734,67 @@ span {
     width: 700px;
 }
 .testimonialsblock1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     position: relative;
     background-color: white;
-    height: 200px;
+    height: 150px;
     width: 485px;
     bottom: 1250px;
     margin-left: 50px;
 }
 .testimonialsblock2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     position: relative;
     background-color: white;
-    height: 200px;
+    height: 150px;
     width: 485px;
-    bottom: 1620px;
+    bottom: 1490px;
     left: 500px;
     margin-left: 50px;
 }
 .testimonialsblock3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     position: relative;
     background-color: white;
-    height: 200px;
+    height: 150px;
     width: 485px;
-    bottom: 1470px;
+    bottom: 1465px;
     margin-left: 50px;
+    
 }
 .testimonialsblock4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     position: relative;
+    align-items: center;
     background-color: white;
-    height: 200px;
+    height: 150px;
     width: 485px;
-    bottom: 1845px;
+    bottom: 1700px;
     left: 500px;
     margin-left: 50px;
 }
 /* Sarah L */
 .testimonials-headshot1 {
     position: relative;
-    bottom: 1240px;
-    left: 100px;
+    bottom: 1245px;
+    left: 50px;
+    width: 485px;
+    height: 75px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: #e4e4e47e;
 }
 .testimonials-name1{
     position: relative;
@@ -786,8 +809,13 @@ span {
 /* Jason M */
 .testimonials-headshot2 {
     position: relative;
-    bottom: 1610px;
-    left: 600px;
+    bottom: 1485px;
+    left: 550px;
+    width: 485px;
+    height: 75px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: #e4e4e47e;
 }
 .testimonials-name2{
     position: relative;
@@ -802,8 +830,13 @@ span {
 /* Emily R */
 .testimonials-headshot3 {
     position: relative;
-    bottom: 1460px;
-    left: 100px;
+    bottom: 1465px;
+    left: 50px;
+    width: 485px;
+    height: 75px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: #e4e4e47e;
 }
 .testimonials-name3{
     position: relative;
@@ -818,8 +851,13 @@ span {
 /* Michael K */
 .testimonials-headshot4 {
     position: relative;
-    bottom: 1830px;
-    left: 600px;
+    bottom: 1705px;
+    left: 550px;
+    width: 485px;
+    height: 75px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: #e4e4e47e;
 }
 .testimonials-name4{
     position: relative;
