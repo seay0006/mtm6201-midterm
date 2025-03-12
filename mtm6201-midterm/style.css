@@ -391,7 +391,7 @@ span {
     height: 40px;
     width: 155px;
 }
-.getitnow {
+.getitnow1 {
     position: relative;
     display: flex;
     justify-content: center;
@@ -454,7 +454,7 @@ span {
     height: 40px;
     width: 155px;
 }
-.getitnow {
+.getitnow2 {
     position: relative;
     display: flex;
     justify-content: center;
@@ -520,7 +520,7 @@ span {
     height: 40px;
     width: 155px;
 }
-.getitnow {
+.getitnow3 {
     position: relative;
     display: flex;
     justify-content: center;
@@ -585,7 +585,7 @@ span {
     height: 40px;
     width: 155px;
 }
-.getitnow {
+.getitnow4 {
     position: relative;
     display: flex;
     justify-content: center;
@@ -650,7 +650,7 @@ span {
     height: 40px;
     width: 155px;
 }
-.getitnow {
+.getitnow5 {
     position: relative;
     display: flex;
     justify-content: center;
@@ -715,7 +715,7 @@ span {
     height: 40px;
     width: 155px;
 }
-.getitnow {
+.getitnow6 {
     position: relative;
     display: flex;
     justify-content: center;
@@ -1210,7 +1210,7 @@ span {
              }
     }
 
-    .getitnow {
+    .getitnow1 {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -1273,7 +1273,7 @@ span {
                 bottom: 10px;
              }
     }
-    .getitnow {
+    .getitnow2 {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -1334,7 +1334,7 @@ span {
                 bottom: 10px;
              }
     }
-    .getitnow {
+    .getitnow3 {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -1346,19 +1346,11 @@ span {
     }
 
 
-    /*  */
-    .frontendwebdev {
-        margin-top: 30px;
-    }
-    .grid13 {
-        display: grid;
-    }
-    .grid14 {
-        display: grid;
-        grid-template-columns: 25fr 25fr 50fr;
-    }
-    .web5 {
+    /* Front end web development */
+    .mobappdev-container{
+        position: relative;
         background-color: white;
+        margin-top: 30px;
         padding-top: 15px;
         padding-left: 15px;
         width: 330px ;
@@ -1367,21 +1359,58 @@ span {
             img {
                 align-items: center;
             }
+    }
+    .mobappdev-grid {
+        display: grid;
+        grid-template-columns: 25fr 25fr 50fr;
+            
+    }
+    .weeks-needed{
+        position: relative;
+        margin-top: 10px;
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 1px solid rgb(0, 0, 0);
+        border-color: rgba(241, 241, 243, 1);
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+             p{
+                position: relative;
+                bottom: 10px;
+             }
+    }
+    .difficulty {
+         position: relative;
+        margin-top: 10px;
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 1px solid rgba(241, 241, 243, 1);
+        border-color: rgba(241, 241, 243, 1);
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+             p{
+                position: relative;
+                bottom: 10px;
+             }
+    }
+    .getitnow3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #F7F7F8;
+        height: 50px;
+        width: 285px;
+        margin: auto;
+        border-radius: 8px;
     }
     
-    /* ADVANCED JAVASCRIPT */
-    .frontendwebdev {
-        margin-top: 30px;
-    }
-    .grid15 {
-        display: grid;
-    }
-    .grid16 {
-        display: grid;
-        grid-template-columns: 25fr 25fr 50fr;
-    }
-    .web6 {
+    /* Graphic Design Starts Below */
+    .graphicdes-container{
+        position: relative;
         background-color: white;
+        margin-top: 30px;
         padding-top: 15px;
         padding-left: 15px;
         width: 330px ;
@@ -1391,6 +1420,171 @@ span {
                 align-items: center;
             }
     }
+    .graphicdes-grid {
+        display: grid;
+        grid-template-columns: 25fr 25fr 50fr;
+            
+    }
+    .weeks-needed{
+        position: relative;
+        margin-top: 10px;
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 1px solid rgb(0, 0, 0);
+        border-color: rgba(241, 241, 243, 1);
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+             p{
+                position: relative;
+                bottom: 10px;
+             }
+    }
+    .difficulty {
+         position: relative;
+        margin-top: 10px;
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 1px solid rgba(241, 241, 243, 1);
+        border-color: rgba(241, 241, 243, 1);
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+             p{
+                position: relative;
+                bottom: 10px;
+             }
+    }
+    .getitnow4 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #F7F7F8;
+        height: 50px;
+        width: 285px;
+        margin: auto;
+        border-radius: 8px;
+    }
+    /* Front End Web Development Below */
+    .frontendweb-container{
+        position: relative;
+        background-color: white;
+        margin-top: 30px;
+        padding-top: 15px;
+        padding-left: 15px;
+        width: 330px ;
+        border-radius: 8px;
+        height: 475px;
+            img {
+                align-items: center;
+            }
+    }
+    .frontendweb-grid {
+        display: grid;
+        grid-template-columns: 25fr 25fr 50fr;
+            
+    }
+    .weeks-needed{
+        position: relative;
+        margin-top: 10px;
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 1px solid rgb(0, 0, 0);
+        border-color: rgba(241, 241, 243, 1);
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+             p{
+                position: relative;
+                bottom: 10px;
+             }
+    }
+    .difficulty {
+         position: relative;
+        margin-top: 10px;
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 1px solid rgba(241, 241, 243, 1);
+        border-color: rgba(241, 241, 243, 1);
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+             p{
+                position: relative;
+                bottom: 10px;
+             }
+    }
+    .getitnow5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #F7F7F8;
+        height: 50px;
+        width: 285px;
+        margin: auto;
+        border-radius: 8px;
+    }
+    /* Advanced Javascript Below */
+    .advjava-container{
+        position: relative;
+        background-color: white;
+        margin-top: 30px;
+        padding-top: 15px;
+        padding-left: 15px;
+        width: 330px ;
+        border-radius: 8px;
+        height: 475px;
+            img {
+                align-items: center;
+            }
+    }
+    .advjava-grid {
+        display: grid;
+        grid-template-columns: 25fr 25fr 50fr;
+            
+    }
+    .weeks-needed{
+        position: relative;
+        margin-top: 10px;
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 1px solid rgb(0, 0, 0);
+        border-color: rgba(241, 241, 243, 1);
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+             p{
+                position: relative;
+                bottom: 10px;
+             }
+    }
+    .difficulty {
+         position: relative;
+        margin-top: 10px;
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 1px solid rgba(241, 241, 243, 1);
+        border-color: rgba(241, 241, 243, 1);
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+             p{
+                position: relative;
+                bottom: 10px;
+             }
+    }
+    .getitnow6 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #F7F7F8;
+        height: 50px;
+        width: 285px;
+        margin: auto;
+        border-radius: 8px;
+    }
+
+
     /* TESTIMONIAL BLOCKS */
     .testimonials {
         /* width: 360px; */
