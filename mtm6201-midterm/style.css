@@ -877,8 +877,9 @@ span {
     width: 800px;
 }
 .monthlyswitch {
+    display: grid;
     position: relative;
-    
+    left: 900px;
 }
 
 
