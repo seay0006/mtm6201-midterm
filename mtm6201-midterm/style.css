@@ -869,6 +869,17 @@ span {
     left: 300px;
     bottom: 80px;
 }
+/* Our Prices Starts Here */
+.ourpricing {
+    position: relative;
+    bottom: 1600px;
+    left: 50px;
+    width: 800px;
+}
+.monthlyswitch {
+    position: relative;
+    
+}
 
 
 }
