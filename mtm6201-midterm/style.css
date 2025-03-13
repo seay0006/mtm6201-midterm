@@ -1758,6 +1758,7 @@ span {
     width: 220px;
     background-color: white;
     border-radius: 4px;
+    padding-right: 15px;
 
 }
 .monthlybutton{
@@ -1782,10 +1783,157 @@ span {
     position: relative;
     left: 150px;
     bottom: 35px;
+    
+}
+.freeplan-whitebackground {
+    background-color: white;
+    border-radius: 6px;
+    width: 320px;
+    position: relative;
+    left: 20px;
+}
+.freeplan-greybackground {
+    background-color: rgb(240, 240, 240);
+    border-radius: 6px;
+    width: 300px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+
+}
+.freeplan-title {
+    position: relative;
+    top: 15px;
+    left: 20px;
+    background-color: #fedcac;
+    width: 240px;
+    height: 40px;
+    border: 1px solid rgb(252, 189, 72);
+    border-radius: 8px;
+
+    h3 {
+        position: relative;
+        left: 80px;
+        bottom: 8px;
+    }
+}
+.freeplan-price {
+    position: relative;
+    left: 80px;
+    top: 10px;
+}
+.cost {
+    font-size: 30px;
+}
+.freeplan-payments {
+    position: relative;
+    bottom: 70px;
+    left: 60px;
+}
+.freeplan-whitecontainer {
+    background-color: white;
+    border-radius: 6px;
+    width: 280px;
+    position: relative;
+    left: 10px;
+    bottom: 25px;
+}
+.freeplan-availablefeatures {
+    position: relative;
+    left: 40px;
+    top: 15px;
+}
+/* Feature 1 box */
+.freeplan-feature1 {
+    position: relative;
+    left: 10px;
+    border: 0.1px solid rgb(144, 144, 144);
+    width: 260px;
+    height: 80px;
+    border-radius: 8px;
+}
+.freeplan-yellowbox1 {
+    background-color: #fedcac;
+    border-radius: 6px;
+    position: relative;
+    left: 15px;
+    top: 25px;
+    width: 35px;
+    height: 35px;
+
+    img{
+        position: relative;
+        left: 11px;
+        top: 8px;
+    }
+}
+.freeplan-feature1-text {
+    position: relative;
+    left: 70px;
+    bottom: 25px;
+    width: 180px;
 }
 
+/* Feature 2 box */
+.freeplan-feature2 {
+    position: relative;
+    margin-top: 5px;
+    left: 10px;
+    border: 0.1px solid rgb(144, 144, 144);
+    width: 260px;
+    height: 80px;
+    border-radius: 8px;
+}
+.freeplan-yellowbox2 {
+    background-color: #fedcac;
+    border-radius: 6px;
+    position: relative;
+    left: 15px;
+    top: 25px;
+    width: 35px;
+    height: 35px;
 
+    img{
+        position: relative;
+        left: 11px;
+        top: 8px;
+    }
+}
+.freeplan-feature2-text {
+    position: relative;
+    left: 70px;
+    bottom: 25px;
+    width: 180px;
+}
+/* Feature 3 Starts Here */
+.freeplan-feature3 {
+    position: relative;
+    margin-top: 5px;
+    left: 10px;
+    border: 0.1px solid rgb(144, 144, 144);
+    width: 260px;
+    height: 80px;
+    border-radius: 8px;
+}
+.freeplan-yellowbox3 {
+    background-color: #fedcac;
+    border-radius: 6px;
+    position: relative;
+    left: 15px;
+    top: 25px;
+    width: 35px;
+    height: 35px;
 
-
-
+    img{
+        position: relative;
+        left: 11px;
+        top: 8px;
+    }
+}
+.freeplan-feature3-text {
+    position: relative;
+    left: 70px;
+    bottom: 25px;
+    width: 120px;
+}
 }
