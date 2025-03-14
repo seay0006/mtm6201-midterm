@@ -2595,15 +2595,90 @@ span {
     background-color: white;
     width: 100%;
 }
+li {
+    list-style-type: none;
+}
+ul {
+    list-style-type: none;
+}
 .logofooter {
     position: relative;
     top: 50px;
     left: 25px;
+}
+.phonefooter{
+    position: relative;
+    top: 15px;
+    right: 10px;
+}
+.phonetextfooter {
+    position: relative;
+    left: 35px;
+    bottom: 40px;
+}
+.mapfooter{
+    position: relative;
+    bottom: 15px;
+    right: 10px;
+}
+.maptextfooter {
+    position: relative;
+    left: 35px;
+    bottom: 40px;
+}
+.emailfooter{
+    position: relative;
+    top: 45px;
+    right: 10px;
+}
+.emailtextfooter {
+    position: relative;
+    left: 35px;
+    bottom: 40px;
 }
 .iconsfooter {
     position: relative;
     left: 40px;
     top: 55px;
 }
-
+.homeheaderfooter{
+    position: relative;
+    bottom: 40px;
 }
+.list-footer-home{
+    position: relative;
+    bottom: 25px;
+    right: 35px;
+}
+.aboutusfooter{
+    position: relative;
+    left: 150px;
+    bottom: 170px;
+}
+.list-footer-aboutus{
+    position: relative;
+    right: 35px;
+}
+.socialprofiles {
+    position: relative;
+    bottom: 25px;
+    left: 25px;
+    width: 300px;
+}
+.socialmediaiconsquare1 {
+    position: relative;
+    left: 125px;
+    bottom: 28px;
+    background-color: ;
+}
+.socialmediaiconsquare2 {
+    position: relative;
+    left: 65px;
+    bottom: 50px;
+}
+.socialmediaiconsquare {
+    position: relative;
+    left: 5px;
+    bottom: 5px;
+}
+
