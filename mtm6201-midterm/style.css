@@ -2668,17 +2668,45 @@ ul {
 .socialmediaiconsquare1 {
     position: relative;
     left: 125px;
-    bottom: 28px;
-    background-color: ;
+    bottom: 25px;
+    background-color: rgb(231, 231, 231); ;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+
+    img{
+        position: relative;
+        left: 10px;
+        top: 10px;
+    }
 }
 .socialmediaiconsquare2 {
     position: relative;
     left: 65px;
-    bottom: 50px;
+    bottom: 65px;
+    background-color: rgb(231, 231, 231); ;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    
+    img{
+        position: relative;
+        left: 10px;
+        top: 10px;
+    }
 }
 .socialmediaiconsquare {
     position: relative;
     left: 5px;
-    bottom: 5px;
-}
+    top: 15px;
+    background-color: rgb(231, 231, 231); ;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
 
+    img{
+        position: relative;
+        left: 10px;
+        top: 10px;
+    }
+}
